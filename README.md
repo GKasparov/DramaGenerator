@@ -8,3 +8,5 @@ checkers
 This generator uses SparkJava and hosts over the port of your choice. The port is configurable in web.java on the 6th line: "port (8080);" . You have the choice to change the 8080 to the port of your choice for the Drama Generator to be hosted. To generate another sentence, just refresh the webpage.
 
 For example once you've started the web.java file (Which will in turn run the gen.java), navigate to localhost:8080 . 
+
+##THIS PROGRAM REQUIRES SparkJava TO HOST THE GENERATOR##
